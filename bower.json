@@ -1,0 +1,27 @@
+{
+  "name": "slides",
+  "version": "3.5.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "http://www.quarkonium.org/",
+  "license": "",
+  "description": "Web presentation framework via reveal.js",
+  "authors": [
+    "algobet"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allbot/dot.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
