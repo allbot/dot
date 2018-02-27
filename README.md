@@ -1,2 +1,2 @@
-# Omni Terminal (OT)
+# Omni Terminal
 `A Quarkonium Terminal`
