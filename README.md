@@ -1,2 +1,2 @@
-# dot
-The Omni Terminal for Quarkonium
+# Omni Terminal (OT)
+`A Quarkonium Terminal`
