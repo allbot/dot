@@ -1,2 +1,2 @@
-# Omni Terminal
-`A Quarkonium Terminal`
+# Allbot Terminal
+`A Quarkonium Omni Terminal`
