@@ -13,7 +13,7 @@ module.exports = function(grunt) {
 				'/*!\n' +
 				' * reveal.js <%= pkg.version %> (<%= grunt.template.today("yyyy-mm-dd, HH:MM") %>)\n' +
 				' * http://www.quarkonium.org\n' +
-				' * Copyright (C) 2017 Quarkonium, An Algobet Labs Project\n' +
+				' * Copyright (C) 2018 Quarkonium, An Algobet Labs Project\n' +
 				' */'
 		},
 
